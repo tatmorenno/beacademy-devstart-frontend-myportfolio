@@ -7,12 +7,14 @@
 
 # Tatiana Moreno - My Portfolio
 
-Projeto realizado no dia 12 de maio de 2022, tal projeto foi desenvolvido em live para os alunos do programa DevStart da be.academy.
+Projeto realizado para por em prática o aprendizado adquirido no dia 12 de maio de 2022 no qual foi desenvolvido em live para os alunos do programa DevStart da be.Academy.
 
 
 
 ## Autores
 
+- [@lnmont 😄](https://www.github.com/lnmont)<br>
+#### 👩🏻‍💻 Com toques especiais de:
 - [@tatmorenno 😄](https://www.github.com/tatmorenno)
 
 
