@@ -5,7 +5,7 @@
 
 
 
-# be.academy - My Portfolio
+# Tatiana Moreno - My Portfolio
 
 Projeto realizado no dia 12 de maio de 2022, tal projeto foi desenvolvido em live para os alunos do programa DevStart da be.academy.
 
@@ -13,12 +13,7 @@ Projeto realizado no dia 12 de maio de 2022, tal projeto foi desenvolvido em liv
 
 ## Autores
 
-- [@lnmont 😄](https://www.github.com/lnmont) 
-
-
-## Libs externas
-
-[ScrollRevel 🚀](https://scrollrevealjs.org/) 
+- [@tatmorenno 😄](https://www.github.com/tatmorenno)
 
 
 ## UI Design Figma
