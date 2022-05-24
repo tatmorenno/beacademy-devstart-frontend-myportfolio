@@ -1,6 +1,7 @@
 
 <p align="center">
-   <img src="https://www.beacademy.com.br/wp-content/uploads/2019/11/Logo-Topo.png" /> 
+   <img src="https://www.beacademy.com.br/wp-content/uploads/2019/11/Logo-Topo.png" /><br><br>
+   <img src="https://github.com/tatmorenno/beacademy-devstart-frontend-myportfolio/blob/main/assets/img/portfolio.jpeg?raw=true"/>
 </p>
 
 
